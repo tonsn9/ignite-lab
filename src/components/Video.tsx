@@ -8,13 +8,14 @@ import {
 } from 'phosphor-react'
 
 import '@vime/core/themes/default.css'
+import { useGetlessonBySlugQuery } from '../graphql/generated'
 
 interface VideoProps {
   lessonSlug: string
 }
 
 export function Video(props: VideoProps) {
-  const { data } = useGetLessonBySlugQuery({
+  const { data } = useGetlessonBySlugQuery({
     variables: {
       slug: props.lessonSlug
     }
