@@ -17,6 +17,7 @@ https://ignite-lab-puce.vercel.app/
 
 
 <h2> 🛠 Tecnologias </h2>
+
 * <a href="https://pt-br.reactjs.org/">React</a> - Biblioteca JavaScript
 
 * <a href="https://nodejs.org/en/">Node.Js</a> - Ambiente de execução back-end JavaScript
