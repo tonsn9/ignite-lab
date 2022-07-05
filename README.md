@@ -1,5 +1,6 @@
 <div align="center">
   <img alt="Video" src="event_platform.gif" />
+</div>
 
 
 <h2>Demo</h2>
