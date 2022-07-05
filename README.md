@@ -7,11 +7,11 @@
 https://ignite-lab-puce.vercel.app/
 
 <h2>
- #📋 Sobre
+📋 Sobre
 </h2>
 <p> 
-   ##Plataforma de vídeo-aula
-  🚀 Projeto desenvolvido Ignite Lab - React.JS (Rocketseat).
+  <span> Plataforma de vídeo-aula</span>
+  <i>🚀 Projeto desenvolvido Ignite Lab - React.JS (Rocketseat).</i>
 </p>
 
 
