@@ -1,10 +1,10 @@
-<h1 align="center">Plataforma de vídeo-aula</h1>
+<h1 align="">Plataforma de vídeo-aula</h1>
 
 
-<h1 align="center">
+<h1 align="">
     <a href="https://ignite-lab-puce.vercel.app/">🔗 React.Js</a>
 </h1>
-<p align="center">🚀 Projeto desenvolvido Ignite Lab - React.JS (Rocketseat).</p>
+<p align="">🚀 Projeto desenvolvido Ignite Lab - React.JS (Rocketseat).</p>
 
 
 # 🛠 Tecnologias
