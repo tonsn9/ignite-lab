@@ -1,6 +1,6 @@
-<h1 align="center">
+<div align="center">
   <img alt="Video" src="event_platform.gif" />
-</h1>
+
 
 <h2>Demo</h2>
 https://ignite-lab-puce.vercel.app/
@@ -8,6 +8,8 @@ https://ignite-lab-puce.vercel.app/
 <h2>
 📋 Sobre
 </h2>
+  
+</div>
 <span> Plataforma de vídeo-aula</span>
 <p> 
   <i>🚀 Projeto desenvolvido Ignite Lab - React.JS (Rocketseat).</i>
