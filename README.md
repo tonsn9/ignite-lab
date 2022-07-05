@@ -2,9 +2,9 @@
   <img alt="Video" src="event_platform.gif" />
 </h1>
 
-<h2>Demo</h2>
+<h2>Demo</h2> <br> https://ignite-lab-puce.vercel.app/
 
-https://ignite-lab-puce.vercel.app/
+
 
 <h2>
 📋 Sobre
