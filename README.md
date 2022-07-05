@@ -1,33 +1,33 @@
-![apresentação](https://www.loom.com/share/8a3abd6dd4644ab88360c3e497d0f47c)
+<h1 align="center">Plataforma de vídeo-aula</h1>
 
-Demo
-https://ignite-lab-puce.vercel.app/
 
-📋 Sobre
-Plataforma de vídeos aulas.
+<h1 align="center">
+    <a href="https://ignite-lab-puce.vercel.app/">🔗 React.Js</a>
+</h1>
+<p align="center">🚀 Projeto desenvolvido Ignite Lab - React.JS (Rocketseat).</p>
 
-Projeto desenvolvido Ignite Lab - React-JS (Rocketseat).
 
-🛠 Tecnologias
-React - Biblioteca JavaScript
+# 🛠 Tecnologias
+* React - Biblioteca JavaScript
 
-Node.js - Ambiente de execução back-end JavaScript
+* Node.js - Ambiente de execução back-end JavaScript
 
-TypeScript - Extensão do JavaScript (suporte a módulos, interface, classe e tipagem)
+* TypeScript - Extensão do JavaScript (suporte a módulos, interface, classe e tipagem)
 
-Vite - Ferramenta de build
+* Vite - Ferramenta de build
 
-Tailwindcss - Framework css
+* Tailwindcss - Framework css
 
-Graphcms Linguagem de consulta e manipulação de dados
+* Graphcms Linguagem de consulta e manipulação de dados
 
-graphql
+* graphql
 
-Apollo - Servidor GraphQL (Controle de cache)
+* Apollo - Servidor GraphQL (Controle de cache)
 
-🖥️ Rodando a Aplicação
+# 🖥️ Rodando a Aplicação
+
 # Clonar repositório
-$ git clone https://github.com/tonsn9/ignite-lab.git
+$ git clone https://github.com/sol-oliveira/ignite-lab.git
 
 # Instale as dependências
 $ npm install
