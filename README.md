@@ -8,7 +8,7 @@
 
 
 # 🛠 Tecnologias
-* React - Biblioteca JavaScript
+* <a href='https://pt-br.reactjs.org/'>React</> - Biblioteca JavaScript
 
 * Node.js - Ambiente de execução back-end JavaScript
 
