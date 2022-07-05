@@ -14,7 +14,7 @@ https://ignite-lab-puce.vercel.app/
 </p>
 
 
-# 🛠 Tecnologias
+<h2> 🛠 Tecnologias </h2>
 * <a href="https://pt-br.reactjs.org/">React</a> - Biblioteca JavaScript
 
 * <a href="https://nodejs.org/en/">Node.Js</a> - Ambiente de execução back-end JavaScript
@@ -31,9 +31,9 @@ https://ignite-lab-puce.vercel.app/
 
 * <a href="https://www.apollographql.com/docs/react/">Apollo</a> - Servidor GraphQL (Controle de cache)
 
-# 🖥️ Rodando a Aplicação
+<h2> 🖥️ Rodando a Aplicação </h2>
 
-````
+```
 Clonar repositório
 $ git clone https://github.com/tonsn9/ignite-lab/
 
@@ -43,5 +43,3 @@ $ npm install
 Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 ```
-
-
