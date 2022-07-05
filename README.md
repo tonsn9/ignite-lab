@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="NextLevelWeek" src="demo_plataform.gif" />
+  <img alt="Video" src="event_platform.gif" />
 </h1>
 
 <h1 align="">Plataforma de vídeo-aula</h1>
