@@ -2,7 +2,7 @@
 
 
 <h1 align="">
-    <a href="https://ignite-lab-puce.vercel.app/">🔗 React.Js</a>
+    <a href="https://ignite-lab-puce.vercel.app/">📋 Sobre</a>
 </h1>
 <p align="">🚀 Projeto desenvolvido Ignite Lab - React.JS (Rocketseat).</p>
 
@@ -27,7 +27,7 @@
 # 🖥️ Rodando a Aplicação
 
 Clonar repositório
-$ git clone https://github.com/sol-oliveira/ignite-lab.git
+$ git clone https://github.com/tonsn9/ignite-lab/
 
 Instale as dependências
 $ npm install
