@@ -46,3 +46,4 @@ $ npm install
 Execute a aplicação em modo de desenvolvimento
 $ npm run dev
 ```
+<h3 align="center">Feito por Ton Soares 🚀</h3>
