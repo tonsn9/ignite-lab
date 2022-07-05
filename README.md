@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="demo_platform.mp4" />
+</h1>
+
 <h1 align="">Plataforma de vídeo-aula</h1>
 
 
