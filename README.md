@@ -2,9 +2,8 @@
   <img alt="Video" src="event_platform.gif" />
 </h1>
 
-<h2>Demo</h2> <br> https://ignite-lab-puce.vercel.app/
-
-
+<h2>Demo</h2>
+https://ignite-lab-puce.vercel.app/
 
 <h2>
 📋 Sobre
@@ -34,6 +33,7 @@
 
 # 🖥️ Rodando a Aplicação
 
+````
 Clonar repositório
 $ git clone https://github.com/tonsn9/ignite-lab/
 
@@ -42,5 +42,6 @@ $ npm install
 
 Execute a aplicação em modo de desenvolvimento
 $ npm run dev
+```
 
 
